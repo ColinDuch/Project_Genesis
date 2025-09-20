@@ -32,7 +32,7 @@
 					type: "item"
 				}
 			]
-			x: 4.5d
+			x: 1.5d
 			y: 0.0d
 		}
 		{
@@ -44,7 +44,7 @@
 				item: { count: 64, id: "powah:dielectric_paste" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -3.0d
 			y: 0.0d
 		}
 		{
@@ -62,7 +62,7 @@
 					type: "item"
 				}
 			]
-			x: 1.5d
+			x: -1.5d
 			y: 0.0d
 		}
 		{
@@ -76,8 +76,389 @@
 				item: { count: 1, id: "powah:dielectric_casing" }
 				type: "item"
 			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F5DB280E60B9106"]
+			id: "4716576F0CAFF9A5"
+			tasks: [{
+				id: "2F171A829FA11812"
+				item: { count: 1, id: "powah:energizing_rod_basic" }
+				type: "item"
+			}]
 			x: 3.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["4716576F0CAFF9A5"]
+			id: "2ED94FB238A5F9F4"
+			tasks: [{
+				id: "269611A5A866D996"
+				item: { count: 1, id: "powah:energizing_rod_hardened" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2ED94FB238A5F9F4"]
+			id: "0C282463B9025413"
+			tasks: [{
+				id: "02A3CD2B37A7F634"
+				item: { count: 1, id: "powah:energizing_rod_blazing" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0C282463B9025413"]
+			id: "7B9856476EE9A20F"
+			tasks: [{
+				id: "76B3C86FCFB1EB3D"
+				item: { count: 1, id: "powah:energizing_rod_niotic" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7B9856476EE9A20F"]
+			id: "456837C5924F5AD7"
+			tasks: [{
+				id: "17D4628A7938BF2B"
+				item: { count: 1, id: "powah:energizing_rod_spirited" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["456837C5924F5AD7"]
+			id: "4F62D4E09B39CBCD"
+			tasks: [{
+				id: "6B366D630A8DFE78"
+				item: { count: 1, id: "powah:energizing_rod_nitro" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4C9711EE6DCC16BA"]
+			id: "11FADD2CDCB7CF09"
+			tasks: [{
+				id: "1DF2B3C97B06316F"
+				item: { count: 1, id: "powah:capacitor_basic" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["58A3F4BBA1634328"]
+			id: "7E075C74C770728C"
+			tasks: [{
+				id: "7051B66BB647D818"
+				item: { count: 1, id: "powah:capacitor_hardened" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7E075C74C770728C"]
+			id: "66848A6C2069E054"
+			tasks: [{
+				id: "5A553B7BBECCBEB0"
+				item: { count: 1, id: "powah:capacitor_blazing" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["66848A6C2069E054"]
+			id: "14945ED6F964DE56"
+			tasks: [{
+				id: "7D97E878EE6FD39E"
+				item: { count: 1, id: "powah:capacitor_niotic" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["11FADD2CDCB7CF09"]
+			id: "58A3F4BBA1634328"
+			tasks: [{
+				id: "0870660AE77B93D5"
+				item: { count: 1, id: "powah:capacitor_basic_large" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["14945ED6F964DE56"]
+			id: "5A7F7F7BA5F0CEC9"
+			tasks: [{
+				id: "4AE0EE77689E6ED9"
+				item: { count: 1, id: "powah:capacitor_spirited" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5A7F7F7BA5F0CEC9"]
+			id: "221CB2FBB7520A02"
+			tasks: [{
+				id: "299199685BDA03FF"
+				item: { count: 1, id: "powah:capacitor_nitro" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4C9711EE6DCC16BA"]
+			id: "26D3941F9D80CF2D"
+			tasks: [{
+				id: "10AFD219EBFD36E2"
+				item: { count: 1, id: "powah:energy_cell_starter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["26D3941F9D80CF2D"]
+			id: "5ECEB7F630077EC9"
+			tasks: [{
+				id: "0D1CFC831E26583A"
+				item: { count: 1, id: "powah:energy_cell_basic" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5ECEB7F630077EC9"]
+			id: "49164BC848EFB566"
+			tasks: [{
+				id: "1149F67D7CDABA1C"
+				item: { count: 1, id: "powah:energy_cell_hardened" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["49164BC848EFB566"]
+			id: "6D7C4DD9F34EC013"
+			tasks: [{
+				id: "3FC45B14076438D2"
+				item: { count: 1, id: "powah:energy_cell_blazing" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6D7C4DD9F34EC013"]
+			id: "74AF122E937C2355"
+			tasks: [{
+				id: "13581B3227CC84D0"
+				item: { count: 1, id: "powah:energy_cell_niotic" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["74AF122E937C2355"]
+			id: "066D75EDBBA654C1"
+			tasks: [{
+				id: "028A67A18E30DF9F"
+				item: { count: 1, id: "powah:energy_cell_spirited" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["066D75EDBBA654C1"]
+			id: "13716C1233E50D27"
+			tasks: [{
+				id: "6414DE3A22A44F1D"
+				item: { count: 1, id: "powah:energy_cell_nitro" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4C9711EE6DCC16BA"]
+			id: "7DCA584D4AD5709C"
+			tasks: [{
+				count: 36L
+				id: "3F303D6EF9C255C5"
+				item: { count: 1, id: "powah:reactor_starter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7DCA584D4AD5709C"]
+			id: "35147CF0B9D41396"
+			tasks: [{
+				count: 36L
+				id: "6AA7122F80FD2468"
+				item: { count: 1, id: "powah:reactor_basic" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["35147CF0B9D41396"]
+			id: "7B8B7EFEC41E7DEF"
+			tasks: [{
+				count: 36L
+				id: "7C0ED140AF53731C"
+				item: { count: 1, id: "powah:reactor_hardened" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7B8B7EFEC41E7DEF"]
+			id: "0C3554ADD6AC07EE"
+			tasks: [{
+				count: 36L
+				id: "6A3D89CEA2DBD2DF"
+				item: { count: 1, id: "powah:reactor_blazing" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0C3554ADD6AC07EE"]
+			id: "44FBB3E07E1738F1"
+			tasks: [{
+				count: 36L
+				id: "228AE45649E14B49"
+				item: { count: 1, id: "powah:reactor_niotic" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["44FBB3E07E1738F1"]
+			id: "7DDD7D3E60487F3C"
+			tasks: [{
+				count: 36L
+				id: "6C1307348BC535E6"
+				item: { count: 1, id: "powah:reactor_spirited" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7DDD7D3E60487F3C"]
+			id: "22D43F9700D47631"
+			tasks: [{
+				count: 36L
+				id: "562976F0F4A8C5CB"
+				item: { count: 1, id: "powah:reactor_nitro" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4C9711EE6DCC16BA"]
+			id: "7F3884C1DD10236B"
+			tasks: [{
+				id: "5198D0A388429476"
+				item: { count: 1, id: "powah:energy_cable_starter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7F3884C1DD10236B"]
+			id: "51EB49A619B4CA58"
+			tasks: [{
+				id: "2A13FF377711E0C3"
+				item: { count: 1, id: "powah:energy_cable_basic" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["51EB49A619B4CA58"]
+			id: "4C4AA38FEC4668D6"
+			tasks: [{
+				id: "57FB091DCE2F6C57"
+				item: { count: 1, id: "powah:energy_cable_hardened" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4C4AA38FEC4668D6"]
+			id: "585734375CE50913"
+			tasks: [{
+				id: "24F2D784C805BCD3"
+				item: { count: 1, id: "powah:energy_cable_blazing" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["585734375CE50913"]
+			id: "0CC54C24FD88E848"
+			tasks: [{
+				id: "4DC2AEA73E953B90"
+				item: { count: 1, id: "powah:energy_cable_niotic" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0CC54C24FD88E848"]
+			id: "5311463993D32D6A"
+			tasks: [{
+				id: "41E8D038C86E99B9"
+				item: { count: 1, id: "powah:energy_cable_spirited" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5311463993D32D6A"]
+			id: "59006C1E61398F86"
+			tasks: [{
+				id: "231BD1696A7A35F3"
+				item: { count: 1, id: "powah:energy_cable_nitro" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -3.0d
 		}
 	]
 }

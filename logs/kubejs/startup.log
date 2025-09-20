@@ -1,16 +1,16 @@
-[14:02:03] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
-[14:02:03] [INIT] Loaded plugins:
-[14:02:03] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
-[14:02:03] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
-[14:02:03] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[14:02:03] [INIT] - net.zhaiji.kubejscurios.kubejs.KubeJSCuriosPlugin
-[14:02:03] [INIT] - dev.uncandango.kubejstweaks.kubejs.plugin.KJSTPlugin
-[14:02:03] [INIT] - com.bobvarioa.kubejspowah.KubeJSPowahPlugin
-[14:02:03] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
-[14:02:03] [INIT] - com.bobvarioa.kubejsprojecte.kubejs.KubeJSProjectEPlugin
-[14:02:03] [INIT] - dev.latvian.mods.kubejs.mekanism.MekanismKubeJSPlugin
-[14:02:03] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
-[14:02:03] [INIT] - com.almostreliable.kubeio.KubePlugin
-[14:02:03] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
-[14:02:04] [INFO] Loaded script startup_scripts:Itemandblock.js in 0.124 s
-[14:02:04] [INFO] Loaded 1/1 KubeJS startup scripts in 1.232 s with 0 errors and 0 warnings
+[15:53:04] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[15:53:04] [INIT] Loaded plugins:
+[15:53:04] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[15:53:04] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
+[15:53:04] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[15:53:04] [INIT] - net.zhaiji.kubejscurios.kubejs.KubeJSCuriosPlugin
+[15:53:04] [INIT] - dev.uncandango.kubejstweaks.kubejs.plugin.KJSTPlugin
+[15:53:04] [INIT] - com.bobvarioa.kubejspowah.KubeJSPowahPlugin
+[15:53:04] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
+[15:53:04] [INIT] - com.bobvarioa.kubejsprojecte.kubejs.KubeJSProjectEPlugin
+[15:53:04] [INIT] - dev.latvian.mods.kubejs.mekanism.MekanismKubeJSPlugin
+[15:53:04] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[15:53:04] [INIT] - com.almostreliable.kubeio.KubePlugin
+[15:53:04] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[15:53:05] [INFO] Loaded script startup_scripts:Itemandblock.js in 0.114 s
+[15:53:05] [INFO] Loaded 1/1 KubeJS startup scripts in 1.113 s with 0 errors and 0 warnings

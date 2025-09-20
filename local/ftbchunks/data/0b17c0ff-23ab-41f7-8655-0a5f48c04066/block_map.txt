@@ -146,6 +146,7 @@
 #36285C minecraft:pink_tulip
 #AFAC0D minecraft:poppy
 #E6B35B minecraft:pumpkin
+#77429A powah:reactor_nitro
 #025439 minecraft:red_mushroom
 #78AF47 minecraft:red_mushroom_block
 #465F37 minecraft:red_tulip
