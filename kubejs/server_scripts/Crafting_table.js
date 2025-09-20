@@ -88,7 +88,7 @@ ServerEvents.recipes(ProjectGenesis => {
     {
       I: 'mekanism:ingot_osmium' ,
       F: 'ironfurnaces:iron_furnace',
-      M: 'industrialforegoing:plastic',
+      M: 'pneumaticcraft:plastic',
       S: 'powah:steel_energized'
     }
   )

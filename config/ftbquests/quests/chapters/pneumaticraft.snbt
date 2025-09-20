@@ -9,5 +9,194 @@
 	id: "7BCC3155AFF20E1C"
 	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "52BD4F1D274202E9"
+			tasks: [{
+				count: 16L
+				id: "7BA72B870E066DAB"
+				item: { count: 16, id: "pneumaticcraft:ingot_iron_compressed" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48AC14544EC984FA"]
+			id: "05DE316580BF2DD2"
+			tasks: [{
+				id: "3C4319F98EF01AC8"
+				item: { count: 1, id: "pneumaticcraft:air_compressor" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52BD4F1D274202E9"]
+			id: "48AC14544EC984FA"
+			tasks: [{
+				id: "4692A7FEFBB4F6DC"
+				item: { count: 1, id: "pneumaticcraft:pressure_tube" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["05DE316580BF2DD2"]
+			id: "6C77B2AEB6D0F312"
+			tasks: [
+				{
+					id: "2B26CA67FD696D9A"
+					item: { count: 1, id: "pneumaticcraft:pressure_chamber_valve" }
+					type: "item"
+				}
+				{
+					id: "60217DEDCAEDD0A4"
+					item: { count: 1, id: "pneumaticcraft:pressure_chamber_glass" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "61D8C4A445DE7D52"
+					item: { count: 2, id: "pneumaticcraft:pressure_chamber_interface" }
+					type: "item"
+				}
+				{
+					count: 20L
+					id: "400E5BE425B2461E"
+					item: { count: 20, id: "pneumaticcraft:pressure_chamber_wall" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6C77B2AEB6D0F312"]
+			id: "4BF0EBC0FC51376F"
+			tasks: [
+				{
+					id: "1C6902EC1EE6529C"
+					item: { count: 1, id: "pneumaticcraft:refinery" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "4BCF0F2009793013"
+					item: { count: 3, id: "pneumaticcraft:refinery_output" }
+					type: "item"
+				}
+				{
+					id: "0739BF2AA47DA5FD"
+					item: { count: 1, id: "pneumaticcraft:oil_bucket" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4BF0EBC0FC51376F"]
+			id: "43DD9788994DA0BA"
+			tasks: [
+				{
+					id: "64F0DE4D225731E3"
+					item: { count: 1, id: "pneumaticcraft:thermopneumatic_processing_plant" }
+					type: "item"
+				}
+				{
+					id: "2A686CDBD792649F"
+					item: { count: 1, id: "pneumaticcraft:lpg_bucket" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["43DD9788994DA0BA"]
+			id: "38C3B190AEB76A94"
+			tasks: [
+				{
+					id: "4836C19198B14B43"
+					item: { count: 1, id: "pneumaticcraft:plastic_bucket" }
+					type: "item"
+				}
+				{
+					id: "75B7F1EB9A33B814"
+					item: { count: 1, id: "pneumaticcraft:plastic" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["38C3B190AEB76A94"]
+			id: "744E4EFB3943D25F"
+			tasks: [{
+				id: "466F544C465785AF"
+				item: { count: 1, id: "pneumaticcraft:empty_pcb" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["744E4EFB3943D25F"]
+			id: "65264F2D9EC3CC59"
+			tasks: [
+				{
+					id: "31D9431A4D23EADD"
+					item: { count: 1, id: "pneumaticcraft:etching_tank" }
+					type: "item"
+				}
+				{
+					id: "5B6C3B0BECCD9C22"
+					item: { count: 1, id: "pneumaticcraft:etching_acid_bucket" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["65264F2D9EC3CC59"]
+			id: "715F9A13509B2032"
+			tasks: [
+				{
+					id: "379D05A5691ABDC4"
+					item: { count: 1, id: "pneumaticcraft:uv_light_box" }
+					type: "item"
+				}
+				{
+					id: "51D00EA7593C2D3F"
+					item: { components: { "pneumaticcraft:uv_exposure": 100 }, count: 1, id: "pneumaticcraft:empty_pcb" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["715F9A13509B2032"]
+			id: "3E680F0A03ABAEE2"
+			tasks: [
+				{
+					id: "7E4924A4129689C9"
+					item: { count: 1, id: "pneumaticcraft:capacitor" }
+					type: "item"
+				}
+				{
+					id: "6538BB450D8CCD6D"
+					item: { count: 1, id: "pneumaticcraft:transistor" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
 }

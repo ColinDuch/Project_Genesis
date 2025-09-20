@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "powah"
 	group: ""
+	icon: {
+		id: "powah:energizing_rod_nitro"
+	}
 	id: "35E3B40D7B5B350C"
 	order_index: 3
 	quest_links: [ ]
