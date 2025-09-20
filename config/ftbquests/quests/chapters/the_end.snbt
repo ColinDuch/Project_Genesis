@@ -7,7 +7,7 @@
 		id: "projecte:philosophers_stone"
 	}
 	id: "7FFAF14CCB5F7656"
-	order_index: 4
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -40,7 +40,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: -7.0d
+			y: -8.0d
 		}
 		{
 			dependencies: [
@@ -52,6 +52,7 @@
 				"064E1E77DA30040C"
 				"0920557D1DE7D38B"
 				"117B6B90443772BE"
+				"5FB921CB437F1D08"
 			]
 			id: "04707A6C67B4C78A"
 			tasks: [{
@@ -144,6 +145,17 @@
 			}]
 			x: 2.5d
 			y: -0.5d
+		}
+		{
+			dependencies: ["2861C8D7EFC04126"]
+			id: "5FB921CB437F1D08"
+			tasks: [{
+				id: "609AF44FA80D68A2"
+				item: { count: 1, id: "create:creative_fluid_tank" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -6.0d
 		}
 	]
 }

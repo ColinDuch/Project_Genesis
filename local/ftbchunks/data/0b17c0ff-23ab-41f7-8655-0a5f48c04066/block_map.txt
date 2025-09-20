@@ -48,6 +48,7 @@
 #6E76AF minecraft:copper_ore
 #CC07F6 minecraft:cornflower
 #306005 minecraft:cracked_stone_bricks
+#07F841 pneumaticcraft:creative_compressor
 #6B35EC mekanism:creative_fluid_tank
 #1BB6AD ars_nouveau:creative_source_jar
 #182273 minecraft:crimson_nylium
@@ -102,6 +103,7 @@
 #76F554 biomesoplenty:hellbark_log
 #A387BF twilightforest:hollow_spruce_log_horizontal
 #1701D7 twilightforest:hollow_twilight_oak_log_horizontal
+#1A0827 minecraft:hopper
 #52D27E minecraft:ice
 #749222 occultism:iesnium_ore_natural
 #D7EADE minecraft:iron_ore
@@ -145,6 +147,9 @@
 #AB1C58 minecraft:peony
 #36285C minecraft:pink_tulip
 #AFAC0D minecraft:poppy
+#E16B4A pneumaticcraft:pressure_chamber_interface
+#48EA21 pneumaticcraft:pressure_chamber_valve
+#4E2A71 pneumaticcraft:pressure_chamber_wall
 #E6B35B minecraft:pumpkin
 #77429A powah:reactor_nitro
 #025439 minecraft:red_mushroom

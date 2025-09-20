@@ -251,5 +251,26 @@ ServerEvents.recipes(ProjectGenesis => {
         },
         "result": {"id": 'mekanism:creative_chemical_tank'}
     })
-
+        ProjectGenesis.custom({     //creative tank create
+        "type": "extendedcrafting:shaped_table",
+        "pattern": [
+        "ABBEBBA",
+        "BCDEDCB",
+        "BDFGFDB",
+        "EEG GEE",
+        "BDFGFDB",
+        "BCDEDCB",
+        "ABBEBBA"
+        ],
+        "key": {
+            "A": {"item":'extendedcrafting:ender_star' },
+            "B": {"item":'create:fluid_tank'},
+            "C": {"item":'create:sturdy_sheet'},
+            "D": {"item":'extendedcrafting:flux_star'},
+            "E": {"item":'create:fluid_pipe'},
+            "F": {"item":'create:creative_blaze_cake'},
+            "G": {"item":'mysticalagradditions:creative_essence'}
+        },
+        "result": {"id": 'create:creative_fluid_tank'}
+    })
 })
