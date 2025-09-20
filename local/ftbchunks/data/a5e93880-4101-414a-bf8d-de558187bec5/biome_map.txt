@@ -1,0 +1,7 @@
+#556 minecraft:beach
+#735 biomesoplenty:coniferous_forest
+#6D4 biomesoplenty:field
+#010 minecraft:forest
+#005 biomesoplenty:gravel_beach
+#3DC minecraft:plains
+#5FF minecraft:river

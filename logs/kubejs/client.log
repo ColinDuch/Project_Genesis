@@ -1,0 +1,18 @@
+[13:46:36] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[13:46:36] [INIT] Loaded plugins:
+[13:46:36] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[13:46:36] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
+[13:46:36] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[13:46:36] [INIT] - net.zhaiji.kubejscurios.kubejs.KubeJSCuriosPlugin
+[13:46:36] [INIT] - dev.uncandango.kubejstweaks.kubejs.plugin.KJSTPlugin
+[13:46:36] [INIT] - com.bobvarioa.kubejspowah.KubeJSPowahPlugin
+[13:46:36] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
+[13:46:36] [INIT] - com.bobvarioa.kubejsprojecte.kubejs.KubeJSProjectEPlugin
+[13:46:36] [INIT] - dev.latvian.mods.kubejs.mekanism.MekanismKubeJSPlugin
+[13:46:36] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[13:46:36] [INIT] - com.almostreliable.kubeio.KubePlugin
+[13:46:36] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[13:46:36] [INFO] client_scripts:main.js#2: Hello, World! (Loaded client example script)
+[13:46:36] [INFO] Loaded script client_scripts:main.js in 0.001 s
+[13:46:36] [INFO] Loaded 1/1 KubeJS client scripts in 0.043 s with 0 errors and 0 warnings
+[13:46:46] [INFO] Client resource reload complete!

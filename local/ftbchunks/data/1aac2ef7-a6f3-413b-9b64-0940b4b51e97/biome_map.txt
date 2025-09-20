@@ -1,0 +1,3 @@
+#79A minecraft:lukewarm_ocean
+#5FF minecraft:river
+#51A minecraft:stony_shore

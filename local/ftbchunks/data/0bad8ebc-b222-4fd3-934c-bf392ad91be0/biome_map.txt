@@ -1,0 +1,11 @@
+#735 biomesoplenty:coniferous_forest
+#4CA minecraft:dripstone_caves
+#010 minecraft:forest
+#467 biomesoplenty:highland
+#056 biomesoplenty:maple_woods
+#73A minecraft:old_growth_pine_taiga
+#60C minecraft:old_growth_spruce_taiga
+#5FF minecraft:river
+#108 biomesoplenty:seasonal_forest
+#14C biomesoplenty:spider_nest
+#169 minecraft:taiga

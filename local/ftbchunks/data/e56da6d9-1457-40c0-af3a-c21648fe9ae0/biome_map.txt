@@ -1,0 +1,17 @@
+#556 minecraft:beach
+#7AA biomesoplenty:cold_desert
+#735 biomesoplenty:coniferous_forest
+#2DC minecraft:deep_dark
+#6D4 biomesoplenty:field
+#67F biomesoplenty:fir_clearing
+#010 minecraft:forest
+#3A0 minecraft:frozen_river
+#467 biomesoplenty:highland
+#154 minecraft:ice_spikes
+#5FF minecraft:river
+#68C biomesoplenty:snowy_coniferous_forest
+#4C8 biomesoplenty:snowy_fir_clearing
+#4E5 minecraft:snowy_plains
+#340 minecraft:snowy_taiga
+#14C biomesoplenty:spider_nest
+#169 minecraft:taiga

@@ -1,0 +1,5 @@
+#010 minecraft:forest
+#2D6 minecraft:meadow
+#5A5 biomesoplenty:orchard
+#3DC minecraft:plains
+#5FF minecraft:river

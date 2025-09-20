@@ -1,0 +1,17 @@
+#735 biomesoplenty:coniferous_forest
+#6AF biomesoplenty:crag
+#2DC minecraft:deep_dark
+#4CA minecraft:dripstone_caves
+#6D4 biomesoplenty:field
+#010 minecraft:forest
+#508 minecraft:frozen_peaks
+#3A0 minecraft:frozen_river
+#286 minecraft:grove
+#467 biomesoplenty:highland
+#51E minecraft:jagged_peaks
+#2D6 minecraft:meadow
+#5FF minecraft:river
+#4C8 biomesoplenty:snowy_fir_clearing
+#4E5 minecraft:snowy_plains
+#340 minecraft:snowy_taiga
+#169 minecraft:taiga

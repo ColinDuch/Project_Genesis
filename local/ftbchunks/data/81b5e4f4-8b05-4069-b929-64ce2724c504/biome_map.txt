@@ -1,0 +1,5 @@
+#4CA minecraft:dripstone_caves
+#508 minecraft:frozen_peaks
+#286 minecraft:grove
+#4C8 biomesoplenty:snowy_fir_clearing
+#340 minecraft:snowy_taiga

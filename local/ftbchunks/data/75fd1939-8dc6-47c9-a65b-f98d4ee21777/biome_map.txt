@@ -1,0 +1,4 @@
+#7AA biomesoplenty:cold_desert
+#292 minecraft:frozen_ocean
+#72D minecraft:snowy_beach
+#68C biomesoplenty:snowy_coniferous_forest

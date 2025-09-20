@@ -1,0 +1,16 @@
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#4F9 minecraft:dark_forest
+#3DE minecraft:deep_ocean
+#430 twilightforest:dense_forest
+#310 twilightforest:forest
+#67B biomesoplenty:grassland
+#0D7 twilightforest:mushroom_forest
+#679 twilightforest:oak_savannah
+#4F1 minecraft:ocean
+#482 biomesoplenty:overgrown_greens
+#5FF minecraft:river
+#419 twilightforest:snowy_forest
+#673 twilightforest:stream
+#7D3 twilightforest:swamp
+#152 twilightforest:underground

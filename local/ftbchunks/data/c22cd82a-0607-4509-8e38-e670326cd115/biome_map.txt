@@ -1,0 +1,12 @@
+#05B minecraft:bamboo_jungle
+#4CA minecraft:dripstone_caves
+#010 minecraft:forest
+#4B0 minecraft:jungle
+#498 minecraft:lush_caves
+#552 biomesoplenty:old_growth_woodland
+#3DC minecraft:plains
+#68B biomesoplenty:rainforest
+#3AF minecraft:sparse_jungle
+#421 minecraft:stony_peaks
+#30B biomesoplenty:volcanic_plains
+#7CC biomesoplenty:volcano

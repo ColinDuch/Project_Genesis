@@ -1,0 +1,7 @@
+#3D6 minecraft:cold_ocean
+#109 minecraft:deep_cold_ocean
+#6D4 biomesoplenty:field
+#0AF biomesoplenty:glowing_grotto
+#005 biomesoplenty:gravel_beach
+#467 biomesoplenty:highland
+#5FF minecraft:river

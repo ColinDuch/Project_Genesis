@@ -1,0 +1,16 @@
+#DE242D minecraft:coal_ore
+#B2A2E1 minecraft:dandelion
+#BED665 minecraft:diorite
+#80497A minecraft:dirt
+#C56419 biomeswevegone:flowering_orchard_leaves
+#3F84B7 minecraft:grass_block
+#88BAFA minecraft:gravel
+#AD9EB5 minecraft:oak_leaves
+#BBA6D1 minecraft:oak_log
+#7AD481 biomeswevegone:orchard_leaves
+#AFAC0D minecraft:poppy
+#7A32B4 biomeswevegone:ripe_orchard_leaves
+#86FC77 minecraft:sand
+#872D76 minecraft:snow
+#DC3458 minecraft:stone
+#B50B59 mekanism:tin_ore

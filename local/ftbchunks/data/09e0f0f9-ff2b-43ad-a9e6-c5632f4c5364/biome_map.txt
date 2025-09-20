@@ -1,0 +1,17 @@
+#4DF biomesoplenty:aspen_glade
+#3D6 minecraft:cold_ocean
+#010 minecraft:forest
+#292 minecraft:frozen_ocean
+#3A0 minecraft:frozen_river
+#286 minecraft:grove
+#467 biomesoplenty:highland
+#154 minecraft:ice_spikes
+#2D6 minecraft:meadow
+#28B biomesoplenty:pumpkin_patch
+#5FF minecraft:river
+#3AE biomesoplenty:snowblossom_grove
+#4E5 minecraft:snowy_plains
+#524 minecraft:snowy_slopes
+#340 minecraft:snowy_taiga
+#51A minecraft:stony_shore
+#240 biomesoplenty:tundra

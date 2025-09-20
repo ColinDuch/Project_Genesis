@@ -1,0 +1,10 @@
+#7F9 twilightforest:dark_forest
+#430 twilightforest:dense_forest
+#277 twilightforest:enchanted_forest
+#310 twilightforest:forest
+#279 twilightforest:highlands
+#0D7 twilightforest:mushroom_forest
+#679 twilightforest:oak_savannah
+#419 twilightforest:snowy_forest
+#673 twilightforest:stream
+#152 twilightforest:underground

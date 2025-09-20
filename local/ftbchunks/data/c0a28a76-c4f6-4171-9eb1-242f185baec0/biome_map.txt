@@ -1,0 +1,7 @@
+#266 biomesoplenty:floodplain
+#0AF biomesoplenty:glowing_grotto
+#68B biomesoplenty:rainforest
+#5FF minecraft:river
+#5F6 biomesoplenty:rocky_rainforest
+#30B biomesoplenty:volcanic_plains
+#7CC biomesoplenty:volcano

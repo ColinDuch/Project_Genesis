@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "begining"
+	group: ""
+	icon: {
+		id: "twilightforest:twilight_oak_log"
+	}
+	id: "3F7DE1E0E625EBCD"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "2D81933209B866BC"
+		tasks: [{
+			id: "168CABA240C68AD5"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}
