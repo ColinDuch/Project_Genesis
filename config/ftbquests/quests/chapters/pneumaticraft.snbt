@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pneumaticraft"
+	group: ""
+	icon: {
+		id: "pneumaticcraft:printed_circuit_board"
+	}
+	id: "7BCC3155AFF20E1C"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

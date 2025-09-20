@@ -4,28 +4,76 @@
 	filename: "powah"
 	group: ""
 	id: "35E3B40D7B5B350C"
-	order_index: 2
+	order_index: 3
 	quest_links: [ ]
-	quests: [{
-		dependencies: ["1FCEDAD9E6D29757"]
-		icon: {
-			id: "powah:energizing_rod_starter"
+	quests: [
+		{
+			dependencies: [
+				"1FCEDAD9E6D29757"
+				"4C9711EE6DCC16BA"
+			]
+			icon: {
+				id: "powah:energizing_rod_starter"
+			}
+			id: "0F5DB280E60B9106"
+			tasks: [
+				{
+					id: "78011F763284AC8A"
+					item: { count: 1, id: "powah:energizing_orb" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "75B30181A8DE98E9"
+					item: { count: 2, id: "powah:energizing_rod_starter" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 0.0d
 		}
-		id: "0F5DB280E60B9106"
-		tasks: [
-			{
-				id: "78011F763284AC8A"
-				item: { count: 1, id: "powah:energizing_orb" }
+		{
+			id: "677B74F6ACB2F6C9"
+			tasks: [{
+				count: 64L
+				id: "0E2452F490618EA4"
+				item: { count: 64, id: "powah:dielectric_paste" }
 				type: "item"
-			}
-			{
-				count: 2L
-				id: "75B30181A8DE98E9"
-				item: { count: 2, id: "powah:energizing_rod_starter" }
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["677B74F6ACB2F6C9"]
+			id: "4C1D5202289B2B35"
+			tasks: [
+				{
+					id: "74C3C8FFF96C3456"
+					item: { count: 1, id: "powah:dielectric_rod" }
+					type: "item"
+				}
+				{
+					id: "492255E6C8DC3B80"
+					item: { count: 1, id: "powah:dielectric_rod_horizontal" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4C1D5202289B2B35"
+				"426B902466509F9B"
+			]
+			id: "4C9711EE6DCC16BA"
+			tasks: [{
+				id: "075CF5AB60EFA0E5"
+				item: { count: 1, id: "powah:dielectric_casing" }
 				type: "item"
-			}
-		]
-		x: 0.0d
-		y: 0.0d
-	}]
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
 }
