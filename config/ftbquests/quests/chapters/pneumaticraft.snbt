@@ -198,5 +198,54 @@
 			x: 3.0d
 			y: 0.0d
 		}
+		{
+			dependencies: ["3E680F0A03ABAEE2"]
+			id: "71D33B4494E46636"
+			tasks: [{
+				id: "44291DB7B38950D0"
+				item: { count: 1, id: "pneumaticcraft:printed_circuit_board" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["71D33B4494E46636"]
+			id: "695AB037038AAA48"
+			tasks: [
+				{
+					id: "0729E7C4F9C9EA91"
+					item: { count: 1, id: "pneumaticcraft:assembly_controller" }
+					type: "item"
+				}
+				{
+					id: "179D0F291D2B7AF0"
+					item: { count: 1, id: "pneumaticcraft:assembly_drill" }
+					type: "item"
+				}
+				{
+					id: "5E50BD3546C2A4B0"
+					item: { count: 1, id: "pneumaticcraft:assembly_io_unit_export" }
+					type: "item"
+				}
+				{
+					id: "773924F26721BD3E"
+					item: { count: 1, id: "pneumaticcraft:assembly_io_unit_import" }
+					type: "item"
+				}
+				{
+					id: "0B2F92A9B472DF69"
+					item: { count: 1, id: "pneumaticcraft:assembly_laser" }
+					type: "item"
+				}
+				{
+					id: "0279C3F3126C052C"
+					item: { count: 1, id: "pneumaticcraft:assembly_platform" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 3.0d
+		}
 	]
 }

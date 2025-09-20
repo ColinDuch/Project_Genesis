@@ -14,10 +14,6 @@
 /reload
 /kubejs hand
 /reload
-/kubejs hand
-/reload
-/kubejs hand
-/reload
 /kubejs reload startup-scripts
 /kubejs reload server-scripts
 /kubejs reload startup-scripts
@@ -36,6 +32,10 @@
 /kubejs hand
 /reload
 /kubejs hand*
+/kubejs hand
+/reload
+/kubejs hand
+/reload
 /kubejs hand
 /reload
 /kubejs hand

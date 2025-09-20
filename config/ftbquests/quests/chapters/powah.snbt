@@ -32,10 +32,11 @@
 					type: "item"
 				}
 			]
-			x: 9.0d
+			x: 4.5d
 			y: 0.0d
 		}
 		{
+			dependencies: ["6C77B2AEB6D0F312"]
 			id: "677B74F6ACB2F6C9"
 			tasks: [{
 				count: 64L
@@ -61,7 +62,7 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
+			x: 1.5d
 			y: 0.0d
 		}
 		{
@@ -75,7 +76,7 @@
 				item: { count: 1, id: "powah:dielectric_casing" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 3.0d
 			y: 0.0d
 		}
 	]
